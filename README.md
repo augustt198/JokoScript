@@ -21,3 +21,8 @@ Finished with result: null (of NULL type)
 ```
 
 Comes with interpreter and REPL built in.
+
+## Features
+
+The langauge comes with a Top-Down Parser, order of operations, certain type inference,
+and small set of standard functions. 
